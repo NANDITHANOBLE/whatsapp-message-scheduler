@@ -1,0 +1,37 @@
+2025-07-21 09:28:14,060 - INFO - Scheduled message to 8778957845 at 09:30 (once)
+2025-07-21 09:30:00,827 - ERROR - Error sending message to 8778957845: Country Code Missing in Phone Number!
+2025-07-21 09:34:55,189 - INFO - Scheduled message to 9345556817 at 09:38 (once)
+2025-07-21 09:35:00,975 - ERROR - Error sending message to 8778957845: Country Code Missing in Phone Number!
+2025-07-21 09:38:00,248 - ERROR - Error sending message to 9345556817: Country Code Missing in Phone Number!
+2025-07-21 09:40:00,986 - ERROR - Error sending message to 8778957845: Country Code Missing in Phone Number!
+2025-07-21 09:40:00,994 - ERROR - Error sending message to 8778957845: Country Code Missing in Phone Number!
+2025-07-21 09:41:10,864 - INFO - Scheduled message to 9488321868 at 09:43 (once)
+2025-07-21 09:43:03,991 - ERROR - Country Code Missing in Phone Number: 9488321868
+2025-07-21 09:43:17,594 - INFO - Scheduled message to +919488321868 at 09:44 (once)
+2025-07-21 09:45:03,937 - INFO - Message sent to +919488321868
+2025-07-21 09:48:34,997 - INFO - Scheduled message to +919488321868 at 09:50 (once)
+2025-07-21 09:51:04,360 - INFO - Message sent to +919488321868
+2025-07-21 09:52:02,583 - INFO - Scheduled image to +919080949675 at 09:53 (once)
+2025-07-21 09:53:15,341 - ERROR - Error sending image to +919080949675: No module named 'win32clipboard'
+2025-07-21 09:55:48,702 - INFO - Scheduled image to +919080949675 at 09:57 (once)
+2025-07-21 09:57:16,052 - ERROR - Error sending image to +919080949675: No module named 'win32clipboard'
+2025-07-21 09:57:28,350 - INFO - Scheduled image to +919080949675 at 09:58 (once)
+2025-07-21 09:58:15,487 - ERROR - Error sending image to +919080949675: No module named 'win32clipboard'
+2025-07-21 10:00:49,371 - INFO - Scheduled image to +919080949675 at 10:02 (once)
+2025-07-21 10:02:16,010 - ERROR - Error sending image to +919080949675: No module named 'win32clipboard'
+2025-07-21 10:05:20,782 - INFO - Scheduled image to +919080949675 at 10:07 (once)
+2025-07-21 10:07:30,841 - ERROR - Error sending image to +919080949675: No module named 'win32clipboard'
+2025-07-21 10:11:14,728 - INFO - Scheduled image to +919080949678 at 10:13 (once)
+2025-07-21 10:13:30,370 - ERROR - Error sending image to +919080949678: No module named 'win32clipboard'
+2025-07-21 10:14:24,454 - INFO - Scheduled image to +919080949675 at 10:16 (once)
+2025-07-21 10:16:30,462 - ERROR - Error sending image to +919080949675: No module named 'win32clipboard'
+2025-07-21 10:18:17,933 - INFO - Scheduled image to +919080949675 at 10:20 (once)
+2025-07-21 10:21:12,540 - INFO - Image sent to +919080949675
+2025-07-21 10:24:00,982 - INFO - Scheduled image to +919080949675 at 10:25 (once)
+2025-07-21 10:26:07,727 - INFO - Image sent to +919080949675
+2025-07-21 10:26:29,657 - INFO - Scheduled image to +919080949675 at 10:27 (once)
+2025-07-21 10:26:40,306 - INFO - Deleted scheduled message to 919080949675 at 10:27
+2025-07-21 10:26:44,403 - INFO - Deleted scheduled message to 919080949675 at 10:25
+2025-07-21 10:28:06,890 - INFO - Image sent to +919080949675
+2025-07-21 10:31:34,548 - INFO - Scheduled message to +919488321868 at 10:33 (once)
+2025-07-21 10:34:36,082 - INFO - Message sent to +919488321868
