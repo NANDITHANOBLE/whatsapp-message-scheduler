@@ -99,26 +99,7 @@ This project is licensed under the MIT License.
 
 Contributions are welcome. Feel free to submit a PR or raise an issue.
 
----
 
-## 🧾 TODO / Improvements
-
-* Add support for recurring messages (e.g., daily reminder)
-* Export/import contacts
-* Convert to .exe using `pyinstaller`
-* Add sound/vibration notification
-
----
-
-## 📄 .gitignore (Recommended)
-
-```gitignore
-__pycache__/
-*.pyc
-*.log
-*.db
-.env
-```
 
 ---
 
@@ -127,15 +108,7 @@ __pycache__/
 * Make sure you are logged in to WhatsApp Web.
 * Don't close the browser until message is sent.
 
----
 
-## 📽️ Optional Demo GIF
-
-If you want, record a short demo and place it in `assets/demo.gif`:
-
-```markdown
-![Demo](assets/demo.gif)
-```
 
 ---
 
